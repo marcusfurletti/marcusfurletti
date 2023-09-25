@@ -1,5 +1,12 @@
 ### Hi there 👋
 
-I`m Marcus Furletti, FrontEnd Developer from Brazil, currently living in Dublin. Graduated in Business management at IBMEC (Brazilian Institute of Capital Market).
+I`m Marcus Furletti, a multi-disciplined front-end developer with a balance of creativity, technology and management. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusfurletti)](https://github.com/anuraghazra/github-readme-stats)
+I’m most motivated when collaborating to solve tough problems, build a better environment and deliver delightful customer experiences. 
+
+I fell in love with Web Development because of the constant exposure to new challenges and opportunities to learn new things. I’m always studying and reading as much as possible.
+
+Graduated in Business management at IBMEC (Brazilian Institute of Capital Market).
+
+Dublin, IE
+
